@@ -55,7 +55,7 @@ A full Windows 10 deployment in a virtualized environment, covering OS installat
 ### **PowerShell System Information Collector**
 A PowerShell automation script that gathers system information (OS, CPU, RAM, disk, network) and outputs it in a clean, structured format.  
 **Why it matters:** Shows scripting fundamentals, automation mindset, and practical IT support tooling.  
-🔗 Repo: [*Powershell_System_Information_Collector*](https://github.com/UnmadeThoughts/Powershell_System_Info_Collector)
+🔗 Repo: [*PowerShell_System_Information_Collector*](https://github.com/UnmadeThoughts/PowerShell_System_Info_Collector)
 
 ---
 
